@@ -3,5 +3,6 @@
 using namespace std;
 int main(){
   string s="Hello!";  //by Deegue
+  string s1="World";
   return 0;
 }
