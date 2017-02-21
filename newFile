@@ -2,5 +2,6 @@
 #include<iostream>
 using namespace std;
 int main(){
+  string s="Hello!";  //by Deegue
   return 0;
 }
